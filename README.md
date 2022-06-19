@@ -1,0 +1,35 @@
+# Bats in the Belfry
+
+**JSON Link:** [https://raw.githubusercontent.com/enthusiastick/batsinthebelfry/main/bats_in_the_belfry.json](https://raw.githubusercontent.com/enthusiastick/batsinthebelfry/main/bats_in_the_belfry.json)
+
+### Townsfolk
+
+Icon | Character | Text
+--- | --- | ---
+![Dreamer](https://wiki.bloodontheclocktower.com/images/6/67/Dreamer_Icon.png) | **Dreamer** | Each night, choose a player (not yourself or Travellers): you learn 1 good & 1 evil character, 1 of which is correct.
+![Exorcist](https://wiki.bloodontheclocktower.com/images/5/5d/Exorcist_Icon.png) | **Exorcist** | Each night\*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight.
+![Fool](https://wiki.bloodontheclocktower.com/images/6/64/Fool_Icon.png) | **Fool** | The first time you die, you don't.
+![Nightwatchman](https://wiki.bloodontheclocktower.com/images/4/4a/Nightwatchman_icon.png) | **Nightwatchman** | Once per game, at night, choose a player: they learn who you are.
+![Town Crier](https://wiki.bloodontheclocktower.com/images/f/f8/Town_Crier_Icon.png) | **Town Crier** | Each night\*, you learn if a Minion nominated today.
+![Virgin](https://wiki.bloodontheclocktower.com/images/9/9d/Virgin_Icon.png) | **Virgin** | The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately.
+
+### Outsider
+
+Icon | Character | Text
+--- | --- | ---
+![Drunk](https://wiki.bloodontheclocktower.com/images/4/4d/Drunk_Icon.png) | **Drunk** | You do not know you are the Drunk. You think you are a Townsfolk character, but you are not.
+![Klutz](https://wiki.bloodontheclocktower.com/images/9/9b/Klutz_Icon.png) | **Klutz** | When you learn that you died, publicly choose 1 alive player: if they are evil, your team loses.
+
+### Minion
+
+Icon | Character | Text
+--- | --- | ---
+![Evil Twin](https://wiki.bloodontheclocktower.com/images/c/cd/Evil_Twin_Icon.png) | **Evil Twin** | You & an opposing player know each other. If the good player is executed, evil wins. Good can't win if you both live.
+![Fearmonger](https://wiki.bloodontheclocktower.com/images/6/64/Fearmonger_icon.png) | **Fearmonger** | Each night, choose a player: if you nominate & execute them, their team loses. All players know if you choose a new player.
+![Pit Hag](https://wiki.bloodontheclocktower.com/images/1/19/Pit_Hag_Icon.png) | **Pit Hag** | Each night\*, choose a player & a character they become (if not in play). If a Demon is made, deaths tonight are arbitrary.
+
+### Demon
+
+Icon | Character | Text
+--- | --- | ---
+![Lil' Monsta](https://wiki.bloodontheclocktower.com/images/5/53/LilMonsta_icon.png) | **Lil' Monsta** | Each night, Minions choose who babysits Lil' Monsta's token & "is the demon". A player dies each night\*. [+1 Minion]
