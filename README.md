@@ -33,3 +33,9 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Lil' Monsta](https://wiki.bloodontheclocktower.com/images/5/53/LilMonsta_icon.png) | **Lil' Monsta** | Each night, Minions choose who babysits Lil' Monsta's token & "is the demon". A player dies each night\*. [+1 Minion]
+
+### Fabled
+
+Icon | Character | Text
+--- | --- | ---
+![Sentinel](https://wiki.bloodontheclocktower.com/images/5/56/Sentinel_Icon.png) | **Sentinel** | There might be 1 extra or 1 fewer Outsider in play.
