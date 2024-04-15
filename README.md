@@ -40,4 +40,5 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
+![Bootlegger](https://wiki.bloodontheclocktower.com/images/0/08/Icon_bootlegger.png) | **Bootlegger** | This script has homebrew characters or rules.
 ![Sentinel](https://wiki.bloodontheclocktower.com/images/d/d4/Icon_sentinel.png) | **Sentinel** | There might be 1 extra or 1 fewer Outsider in play.
